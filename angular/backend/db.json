@@ -5,14 +5,14 @@
       "conteudo": "Na volta a gente compra!",
       "autoria": "Mãe",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Vc faz TI? Conserta meu celular!",
       "autoria": "Grupo da família",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Já tentou reiniciar o roteador?",
@@ -47,20 +47,20 @@
       "conteudo": "Melhor professor, o fracasso é!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Você não é todo mundo!",
       "autoria": "Mãe",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 14
     },
     {
       "conteudo": "Foi sem querer querendo!",
       "autoria": "Chaves",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 15
     },
     {
@@ -123,7 +123,7 @@
       "conteudo": "Não fez mais que a sua obrigação!",
       "autoria": "Mãe",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 24
     },
     {
